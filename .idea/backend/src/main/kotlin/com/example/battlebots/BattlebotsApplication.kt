@@ -9,4 +9,3 @@ class BattlebotsApplication
 fun main(args: Array<String>) {
 	runApplication<BattlebotsApplication>(*args)
 }
-aaaaaa
