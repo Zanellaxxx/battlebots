@@ -9,7 +9,7 @@ import org.springframework.stereotype.Service
 import java.time.LocalDateTime
 
 @Service
-private class EventoService(
+class EventoService(
     private val eventoRepository: EventoRepository,
     private val roboRepository: RoboRepository,
     private val lutaRepository: LutaRepository
